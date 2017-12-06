@@ -37,4 +37,4 @@ DAC board for Raspberry Pi usable as a USB audio device.
 - Output format：I2S(64fs)
 - MCLK clock：256fs(GPIO4, Pin7から出力)
 - Power Supply：+3.3V, +5V(~300mA)
-- DAC I/F：Raspberry Pi GPIO互換配置
+- DAC I/F：Raspberry Pi GPIO Compatible assign
